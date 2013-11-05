@@ -57,7 +57,7 @@ public class DocumentVectorAnnotator extends JCasAnnotator_ImplBase {
 		}
 		FSList  fslist=Utils.fromCollectionToFSList(jcas, arrayList);
 		doc.setTokenList(fslist);
-		
+		//done
 		//TO DO: construct a vector of tokens and update the tokenList in CAS
 		
 
