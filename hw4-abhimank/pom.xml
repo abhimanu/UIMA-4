@@ -105,4 +105,8 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:git:git@github.com:abhimanu/hw4-abhimank.git</connection>
+		<developerConnection>scm:git:git@github.com:abhimanu/hw4-abhimank.git</developerConnection>
+	</scm>
 </project>
